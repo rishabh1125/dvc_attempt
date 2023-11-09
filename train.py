@@ -1,13 +1,12 @@
-import random
-import sys
+from pathlib import Path
 from dvclive import Live
+from random import random
 
 with Live(save_dvc_exp=True) as live:
-    epochs = int(sys.argv[1])
-    live.log_param("epochs", epochs)
-    for epoch in range(epochs):
-        live.log_metric("train/accuracy", epoch + random.random())
-        live.log_metric("train/loss", epochs - epoch - random.random())
-        live.log_metric("val/accuracy",epoch + random.random() )
-        live.log_metric("val/loss", epochs - epoch - random.random())
-        live.next_step()
+  for epoch in range(1,20):
+    live.log_metric("accuracy", epoch*random())
+    live.log_metric("loss",  epoch*random())
+    live.next_step()
+
+live.log_param("Model","testing")
+
