@@ -1,0 +1,205 @@
+Domain,Intent,Utterance,Questions
+Education,Course applied,What are the degrees offered in this university? ,
+Education,UG specialization,What are the majors for B.Tech are offered in this university? ,What are the branches  for B.Tech are offered in this university? 
+Education,PG specialization,What are the majors for M.Tech are offered in this university? ,
+Education,PG- how to apply,What is the eligiblity for admission into MSc in MCVJ college? ,
+Education,College Ranking,What are college rankings across organizations?,
+Education,Fees structure - Btech,Link to  Fees structure - Btech.,Can you share Fees structure - Btech?
+Education,Fees structure - Mtech,Link to  Fees structure - Mtech.,Can you share Fees structure - Mtech?
+Education,Stipend - Research assistant,What are stipends for research assistants?,
+Education,UG- eligibilty,What is the eligiblity for admission into B.Tech in MCVJ college? ,
+Education,UG- how to apply,How to apply for B.Tech in MCVJ college?,
+Education,UG admission - important dates,What are the important dates for B.Tech admission in this college? ,When are admissions for B.Tech in college open? 
+Education,Research projects,What are research projects undergoing in MCVJ college?,
+Education,UG- internaional students,How does an international student apply to MCVJ?,Can international student apply to MCVJ college? 
+Education,Hostel facilities - boys,What are hostel facilities in boys hostel?,
+Education,Hostel facilities - girls,What are hostel facilities in girls hostel?,
+Education,Hostel fees - boys,What are hostel fees for boys hostel?,
+Education,Hostel fees - girls,What are hostel fees for girls hostel?,Hostel fees for girls hostel per semester?
+Education,Placements,What is the overall B.Tech placements of MCVJ college? ,
+Education,Industry relations,How are industry relations in college?,
+Education,Accredition,What are rankings and accrediation of MCVJ college?,
+Education,How to reach,How to reach the MCVJ campus? ,
+Education,College campuses,Are there multiple branches of MCVJ college?,Can you share other campus branches as well.
+Education,Yearly calendar ,Link to yearly calendar for the college.,Can you share yearly calendar of BTech -  CSE course.
+Education,Sport fest,Does college host a sports fest?,
+Education,Cultural fest,Does college host a cultural fest?,
+Education,Technical Fest,Does college host a technical fest?,
+Education,Scholarship,What are scholarships provided by MCVJ college? ,
+Education,Sports quota,How to apply for sports qutoa in MCVJ college?,Does MCVJ has sports quota?
+Education,Notable Alumni,Who are notable alumni from MCVJ college? ,
+Education,International students -fees,What is fees for an international student for MCVJ?,
+Education,Contact us,How to contact MCVJ college? ,How to contact MCVJ college? 
+Education,Time table,Link to time table of all UG courses.,Can you share time table of BTech -  CSE course.
+Education,List of clubs,What are the various clubs in MCVJ college? ,students clubs in MCVJ college
+Education,Seats Matrix,What are seats size for B.Tech courses in MCVJ college?,
+Education,Campus life,How is campus life in MCVJ college.,How is campus life in MCVJ college?
+Education,Women Safety,Please describe the women safety committee and share their contacts.,How to contact women safety committee of the college? 
+Education,Anti ragging,Please describe the anti-ragging committee and share their contacts.,How to contact Anti-ragging committee of the college? 
+Education,Sports facility,What are the sports facility in the campus?,Is there a tennis court in the campus? 
+Education,Hostel Allotments,Where to find hostel allotment list? ,Steps to find Hostel allotment status
+Education,Course registration,Steps to register for courses in MCVJ college.,Course registration steps
+Education,List of clubs,What are the various clubs in MCVJ college? ,students clubs in MCVJ college
+Education,College History ,Can you mention history of MCVJ college? ,History of MCVJ college. 
+Education,Dress code,What is the dress code of the college?,Is there a dress code in college?
+Education,Fee not showing,Fees status not updated.,Fee  is paid but status is not showing paid.
+Education,Fee portal not working,Fees portal is not working.,The fees portal is hanging and not paid.
+Education,Admission form price,Price of admission form.,what is cost of buying admission form.
+Education,Placement - IT Companies,IT companies that visit MCVJ for placments.,Top IT companies that visit MCVJ college.
+Education,Students club list,List of all students club in the college. ,List of students club in the college. 
+Education,Hostel rules  - boys,What are hostel rules for boys hostel?,
+Education,Hostel rules  - girls,What are hostel rules for girls hostel?,
+Medical,Book appointment ,How to book an appointment in the website?,
+Medical,Specialities,Which speciality doctor are available in my hospital?,Which speciality doctor are present in my hospital?
+Medical,Appointment fee,What is the appointment fee?,
+Medical,Buy medicines,How to buy medicines from medibuddy?,How can I buy medicines form medibuddy?
+Medical,Medicine Home delivery,How to avail home delivery of medicines?,Does medibuddy give home delivery of medicines. 
+Medical,Get consultation,I want to get consultation form the doctor.,
+Medical,Home visit,I want to book a home visit appointment with a general physician.,
+Medical,Video consultation,I want to book a video consulation with a orthopedics.,How to book a video consulation with a orthopedics?
+Medical,Dentist appointment,I want to book a dentist appointment.,How to book a dentist appointment?
+Medical,Tooth removal cost,What is the cost of tooth removal through medibuddy?,
+Medical,How to book tests,How to book tests in medibuddy?,Can I book tests through medibuddy?
+Medical,X- Ray test price,What is the price of X-ray test through medibuddy?,
+Medical,MIR test price,What is the price of MIR test through medibuddy?,
+Medical,Ultrasound test price,What is the price of ultrasound test through medibuddy?,
+Medical,General ward,How to arrange a bed in general ward through medibuddy?,
+Medical,Emergency ward,How to arrange a bed in emergency ward through medibuddy?,
+Medical,Admit patient,Procedure to admit a patient through medibuddy?,
+Medical,Medical fees payment,Procedure to get medical bill for my treatment?,
+Medical,Medical insurance,How to use my medical insurance while bill payment?,
+Medical,Company medical insurance,How to use my company medical insurance while bill payment?,
+Medical,Physiotherapy,How to book a session with physiotherapist in medibuddy?,
+Medical,Dietitian appointement,How to book a session with dietitian in medibuddy?,
+Medical,Dermatologist appointement,How to book a session with a dermatologist in medibuddy app?,
+Medical,Book surgery,How can I book a surgery through medibuddy app?,
+Medical,Kidney stone surgery,What is cost of kidney stone removal through medibuddy?,
+Medical,Laser surgery ,What is cost of laser surgery through medibuddy?,
+Medical,Covid protocols,What covid protocols to follow in hospital?,
+Medical,Covid patients admission,Does medibuddy have treatment for covid patients?,
+Medical,Covid vaccinations,Can I book covid vaccinations  from medibuddy?,
+Medical,Therapy session,I have to book a therapy session through medibuddy app.,
+Medical,Blood test,I have to book a blood test through medibuddy app.,
+Medical,Urine test,I have to book a urine test through medibuddy app. ,
+Medical,Complete body checkup,How can I get complete body checkup.,
+Medical,Kids covid vaccinations,Can I covid vaccinations for children below 13 yrs of age?,
+Medical,Reschedule,I have to reschedule my doctor's accpointment.,
+Medical,What is planned hospitalization?,What is planned hospitalization.,
+Medical,Health report,How to get health report of my X-ray test?,
+Medical,Medical E-card,What is Medibuddy  E-card?,
+Medical,Medibudddy gold,What is Medibuddy  gold?,
+Medical,Medibudddy gold,What is the price of Medibuddy Gold?,
+Medical,Cancer test,I have to book cancer test through medibuddy. ,
+Medical,ABHA registration,Can I get consultation without ABHA registration on urgent pain?,
+Medical,ABHA registration,How Can I get ABHA registration?,
+Medical,ABHA registration,What is the importance of ABHA registration by GOI?,
+Medical,Medical Report,How to download medical report?,Can I download medical report in app?
+Medical,Nearlest hospital,How to find nearest hospitals from my location?,
+Medical,Find patient,How to find relative patient from patient Id?,
+Medical,Stay after cesarean,How long to to stay in hospital after cesarean section?,
+Medical,stay after kidney stone,How long to to stay in hospital after Kidney stone surgery?,How long to be admit hospital post Kidney stone surgery?
+Medical,Blood report,How much time it takes to geenerate blood test reports?,
+Medical,System not able to read my prescription.,System not able to read my prescription.,
+Medical,Items not delivered,My items are not delivered.,
+Medical,Cancel delivery,I want to cancel medicine delivery.,
+Medical,Wrong items delivered,Wrong items delivered in medicines delievery.,
+Medical,Expired medicines delivered,Expired medicines delivered in medicines delievery.,
+Medical,Admission from outside referral,How can I be hospitalised based on outside doctor diagnosis?,How to get admitted based on outside doctor diagnosis?
+Medical,Avaliable doctor,How to check if my doctor is avaliable now?,How to get my doctor's avalaibility?
+Medical,Demand refund,I want refund on medicine delivery?,
+Medical,Refund status ,What is the status of my refund. ,
+Medical,Change address,I want to change address for medicine delivery.,
+Medical,Medical insurance,I want to buy medical insurance. ,How to purchase medical insurance? 
+Medical,Medical insurance,I want to update medical insurance details.,
+Medical,Medical insurance,I want to change personal medical insurance to couples insurance?,"How can I change personal medical insurance to couples insurance,"
+Medical,Medical insurance,I want to purchase group medical insurance. ,
+Medical,Medical insurance,Should I buy personal medical insurance on top of company medical insurance?,
+Medical,Delivery fees,What is cost of delivery fee.,
+Medical,How to check list of partnered hospitals,How to check list of partnered hospitals in Medibuddy?,How can I check list of partnered hospitals?
+Medical,Symptons of Dieseases,Symptons of Covid-19.,
+Medical,Symptons of Dieseases,Symptons of Malaria.,
+Medical,Symptons of Dieseases,Symptons of Dengue.,
+Medical,Symptons of Dieseases,Symptons of Typhoid.,
+Medical,Symptons of Dieseases,Symptons of Tubercolosis.,
+Medical,Symptons of Dieseases,Symptons of Haundice.,
+Medical,Symptons of Dieseases,Symptons of Chicken Pox.,What are the symptons of Chicken Pox.
+Medical,Symptons of Dieseases,Symptons of Influenza.,
+Medical,Symptons of Dieseases,Symptons of cataract.,
+Medical,Symptons of Dieseases,Symptons of Tubercolosis.,
+Medical,Symptons of Dieseases,Symptons of Diabetes.,What are the symptons of Diabetes.
+Medical,Symptons of Dieseases,Symptons of Tumors.,
+Medical,Symptons of Dieseases,Symptons of throat cancer.,
+Medical,Treatment,Treatment for Covid-19.,
+Medical,Treatment,Treatment for Malaria.,
+Medical,Treatment,Treatment for Dengue.,
+Medical,Treatment,Treatment for Typhoid.,How to get treatment for Typhoid.
+Medical,Treatment,Treatment for Tubercolosis.,
+Medical,Treatment,Treatment for Haundice.,
+Medical,Treatment,Treatment for Chicken Pox.,
+Medical,Treatment,Treatment for Influenza.,
+Medical,Treatment,Treatment for cataract.,
+Medical,Treatment,Treatment for Tubercolosis.,
+Medical,Treatment,Treatment for Diabetes.,
+Medical,Treatment,Treatment for Tumors.,Can I get treated for Tumors.
+Medical,Treatment,Treatment for throat cancer.,
+Medical,Room type available,What are the options of rooms available for  patient?,Room options avalable for hospitalization.
+Medical,Room price,Charge for general ward?,Cost of general ward?
+Medical,Room price,Charge for special ward?,Cost of special ward?
+Medical,Room price,Charge for hospital suite?,Cost of hospital suite?
+Medical,Room price,Charge for hospital deluxe suite?,Cost of hospital deluxe suite?
+Medical,Policy for parents for childeren hospitalization,Policy for parents for childeren hospitalization,"My child is hospitalized, can I staty with him too?"
+Medical,Guest visit timings,Timings for guest visit in hospital.,Guest visit patients timings
+Medical,Hospital room not cleaned.,Hospital room not cleaned.,Hospital room not cleaned regularaly.
+Medical,Request for special food from canteen.,Request for special food from hospital canteen.,I have special request for food by doctor prescription.
+Medical,Forms for hospitalization,Forms for hospitalization,How to fill hospitalization form.
+Medical,Protocol for ultrasound test,Protocol for ultrasound test,What to do before ultrasound test.
+Medical,Protocol for surgery,Protocol for surgery,Dos and don'ts before surgery.
+Education,Raise complaint for hostel sanitation,How to raise complaint for hostel sanitation?,How can I raise complaint for hostel sanitation?
+Education,Student council selection,Steps to apply for student council position.,I want to participate in student council position. 
+Education,Dean's office,Where is the dean's office? ,How can I contact dean of the college?
+Education,Check results,How to check my semester's results? ,Semester result portal.
+Education,Depatrment of CSE,Where can I find department of CSE?,I am looking for department of CSE.
+Education,Depatrment of Mechanical engineering,Where can I find department of Mechanical Engineering?,I am looking for department of Mechanical Engineering.
+Education,Sports field not maintained,Sports field is not being maintained properly.,The Sports field is not being maintained properly.
+Education,Classroom sanity not maintained,Classroom cleanliness  is not being maintained properly.,The classrooom is not being cleaned regularly.
+Education,Apply for re-evaluation,I have to apply my result for re-evaluation?,How can I apply my result for re-evaluation?
+Education,Apply for re-exam,I have to apply my semester re-exam.,How can I apply fro my semester re-exam?
+Education,College placements important date,Important date for college placements.,
+Education,Industrial training form,Steps to fill industrial training form.,How to fill insustrial training form?
+Education,Fees structure - MSc,Link to  Fees structure - MSc.,Can you share Fees structure - MSc?
+Education,Guest visit timings,Timings for guest visit.,Students guest visit timings
+Education,PG admission - important dates,What are the important dates for M.Tech admission in this college? ,When are admissions for M.Tech in college open? 
+Education,Branch slide policy,What is the branch slide policy?,
+Education,Branch slide policy,How to apply for Branch slide?,
+Education,Leave,How to apply for leave?,
+Education,Attendence policy,What is attendance policy?,
+Education,Classroom rules in MCVJ college.,Classroom rules in MCVJ college.,
+Education,Lab ettiquetes,Lab ettiquetes,
+Education,Boys hostel rules.,Boys hostel rules.,
+Education,Girls hostel rules.,Girls hostel rules.,
+Education,Exam center rules and regulations.,Exam center rules and regulations.,
+Education,Exam date,Exam date for CSE - Btech. ,
+Education,Exam date,Exam date for Mechanical - Btech. ,
+Education,Exam date,Exam date for Botany - MSc. ,
+Education,Exam date,Exam date for Semiconductors - MTech. ,
+Education,Winter internship policy,Winter internship policy,
+Education,NOC ,How to apply for NOC for internship.,
+Education,Bonafide certificate.,How to get Bonafide certificate.,
+Education,Transfer certificate.,How to get Transfer certificate.,
+Education,Deposit refund.,How to get Deposit refund.,
+Education,Fresher party.,Code of conduct for Fresher party.,
+Education,Fresher party.,Guest policy for fresher party.,
+Education,Fresher party.,Dress code for fresher party.,
+Education,Farewell party,Code of conduct for Farewell party.,
+Education,Farewell party,Guest policy for Farewell party.,
+Education,Farewell party,Dress code for Farewell party.,
+Education,Convocation ceremony,Code of conduct for convocation ceremony.,
+Education,Convocation ceremony,Guest policy for Convocation ceremony.,
+Education,Convocation ceremony,Dress code for Convocation ceremony.,
+Education,Reunion ceremony,Code of conduct for Reunion ceremony.,
+Education,Reunion ceremony,Guest policy for Reunion ceremony.,
+Education,Reunion ceremony,Dress code for Reunion ceremony.,
+Education,Final marksheet,I need a transcript of my final marksheet. ,
+Education,Reschedule final exams,Need to reschedule final exams on health grounds.,Can I reschedule final exams on health grounds?
+Education,New students club,Policy for creating a new students club,
+Education,New students club,Forms to fill in order to start a new students club.,
