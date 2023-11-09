@@ -1,0 +1,6 @@
+outs:
+- md5: 64b38d8d6f72262d57d5cede8603a1e7.dir
+  size: 91841212
+  nfiles: 11
+  hash: md5
+  path: all_minilm_l6_v2
