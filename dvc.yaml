@@ -1,5 +1,8 @@
 metrics:
 - dvclive/metrics.json
+- experiments/logs/metrics.json
 plots:
 - dvclive/plots/metrics:
+    x: step
+- experiments/logs/plots/metrics:
     x: step
